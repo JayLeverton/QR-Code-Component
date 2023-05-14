@@ -37,7 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 As I'm still very new to HTML and CSS and this was my first time creating a page using a style guide, there were a few things that tripped me up. 
-I ran into issues regarding the vertical centering of the card and, upon doing some trial and error and googling, learned that the way I was centering the card element using ```html height: 100%;``` was the cause of the card refusing to be vertically centered. Replacing it with ```html calc(100vh - 1px);``` fixed the issue. 
+I ran into issues regarding the vertical centering of the card and, upon doing some trial and error and googling, learned that the way I was centering the card element using ```height: 100%;``` was the cause of the card refusing to be vertically centered. Replacing it with ```calc(100vh - 1px);``` fixed the issue. 
 I'm still a little shakey on how to use all of the align and justify properties, but I'm getting the hang of them.
 
 ## Author
