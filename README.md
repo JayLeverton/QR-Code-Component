@@ -9,14 +9,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [Author](#author)
+- [Author](#author) 
 
 ## Overview
 
 ### Screenshot
 
-![PC](./qr-code-component/screenshots/ScreenshotMobile.png)
-![Tablets](./qr-code-component/screenshots/ScreenshotDesktop.png)
+![PC](/qr-code-component/screenshots/ScreenshotMobile.png)
+![Tablets](/qr-code-component/screenshots/ScreenshotDesktop.png)
 
 ## My process
 
